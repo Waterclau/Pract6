@@ -15,6 +15,7 @@ Para este test son importantes tres archivos:
   1) ProcessService.java => request para nombre,DNI y telefono.
   2) ProcessServiceImpl.java => obtine los datos por la interfaz y los pasa por medio del logger
   3) ProcessController.java => se realiza el post de los datos
+
 Para este apartado , realizamos el test que se encuentra en la siguiente ruta:
 practica-6\src\test\java\com\icai\practicas\ProcessControlerTest.java
 Donde comprobamos ejemplos correctos e incorrectos.
